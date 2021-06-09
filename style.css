@@ -9,13 +9,13 @@ body {
 }
 #dailyTitle {
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
 }
 #weatherContainer {
-  border: 1px solid grey;
+  border: 1px solid rgb(177, 176, 176);
   padding: 20px;
   border-radius: 4px;
-  box-shadow: 5px 5px 10px 0px #a8a7a8;
+  box-shadow: 5px 5px 10px 0px #ceccce;
 }
 #dailyForecast {
   display: flex;
@@ -26,4 +26,10 @@ body {
   text-align: center;
   padding: 10px;
   margin: 10px;
+}
+.day-names {
+  background-color: rgb(15, 130, 175);
+  color: white;
+  padding: 3px 10px 3px 10px;
+  margin-top: 0;
 }
