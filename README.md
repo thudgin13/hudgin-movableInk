@@ -6,11 +6,11 @@ Thank you so much for this opportunity. I was unclear on if this challenge shoul
 
 Requirements for the challenge:
 
-[X] Create a project that consume the **geolocation endpoint**.
-[X] Use the data from the geolocation endpoint to make a second call to the **forecast endpoint**.
-[X] Use the data from both endpoints to generate the creative found [here.](/img/creative_mock_up.gif)
-[X] Your code should be as maintainable and extensible as possible.
-[X] Please timebox this exercise to 2 hours.
+1. [x] Create a project that consume the **geolocation endpoint**.
+1. [x] Use the data from the geolocation endpoint to make a second call to the **forecast endpoint**.
+1. [x] Use the data from both endpoints to generate the creative found [here.](/img/creative_mock_up.gif)
+1. [x] Your code should be as maintainable and extensible as possible.
+1. [x] Please timebox this exercise to 2 hours.
 
 ## Place To Improve
 
