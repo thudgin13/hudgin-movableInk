@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+#dailyTitle {
+  text-align: center;
+  font-size: 20px;
+}
+#weatherContainer {
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px 0px #a8a7a8;
+}
+#dailyForecast {
+  display: flex;
+  flex-flow: row-nowrap;
+}
+.daily-weather {
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
