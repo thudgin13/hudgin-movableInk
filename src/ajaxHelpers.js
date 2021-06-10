@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-export const fetchLocation = async() => {
-    const zipcode = '20001'
+export const fetchLocation = async(zipcode) => {
     try {
         const {data} = await axios.get(`https://se-weather-api.herokuapp.com/api/v1/geo?zip_code=${zipcode}`)
         return data
